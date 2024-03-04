@@ -1,0 +1,210 @@
+{
+  "booster": [
+    {
+      "name": "BABY_DRAGON",
+      "amount": 1
+    },
+    {
+      "name": "PIRATE_HAT",
+      "amount": 1
+    },
+    {
+      "name": "PIRATE_SWORD",
+      "amount": 1
+    },
+    {
+      "name": "SWORD_GOLD",
+      "amount": 1
+    },
+    {
+      "name": "HAMMER_REIDITE",
+      "amount": 1
+    },
+    {
+      "name": "TURBAN1",
+      "amount": 1
+    },
+    {
+      "name": "FIREFLY",
+      "amount": 50
+    },
+    {
+      "name": "CROWN_GREEN",
+      "amount": 1
+    }
+  ],
+
+  "VIP": [
+      {
+          "name": "HAWK",
+          "amount": 1
+        },
+        {
+          "name": "DIAMOND_HELMET",
+          "amount": 1
+        },
+        {
+          "name": "SWORD_DIAMOND",
+          "amount": 1
+        },
+        {
+          "name": "DIAMOND_SPEAR",
+          "amount": 1
+        },
+        {
+          "name": "SUPER_HAMMER",
+          "amount": 1
+        },
+        {
+          "name": "CROWN_BLUE",
+          "amount": 1
+        },
+        {
+          "name": "FIREFLY",
+          "amount": 10000
+        },
+        {
+          "name": "DIAMOND_SHIELD",
+          "amount": 1
+        }        
+  ],
+
+  "event": [
+      {
+        "name": "BABY_LAVA",
+        "amount": 1
+      },
+      {
+        "name": "PAPER",
+        "amount": 60000
+      },
+      {
+        "name": "FIREFLY",
+        "amount": 60000
+      },
+      {
+        "name": "WOOD_DOOR_SPIKE",
+        "amount": 60000
+      },
+      {
+        "name": "SPIKE",
+        "amount": 60000
+      },
+      {
+        "name": "REIDITE_DOOR",
+        "amount": 60000
+      },
+      {
+        "name": "HAMMER",
+        "amount": 1
+      },
+      {
+        "name": "SUPER_HAMMER",
+        "amount": 1
+      },
+      {
+        "name": "WOOD_SPEAR",
+        "amount": 1
+      },
+      {
+        "name": "PAPER",
+        "amount": 60000
+      },
+      {
+        "name": "WOOD",
+        "amount": 60000
+      },
+      {
+        "name": "WOOD",
+        "amount": 60000
+      },
+      {
+        "name": "WOOD",
+        "amount": 60000
+      },
+      {
+        "name": "WOOD",
+        "amount": 60000
+      },
+      {
+        "name": "WINTER_PEASANT",
+        "amount": 1
+      }
+  ],
+
+
+  "KitManager": [
+      {
+        "name": "BABY_LAVA",
+        "amount": 1
+      },
+      {
+        "name": "PAPER",
+        "amount": 60000
+      },
+      {
+        "name": "FIREFLY",
+        "amount": 60000
+      },
+      {
+        "name": "WOOD_DOOR_SPIKE",
+        "amount": 60000
+      },
+      {
+        "name": "SPIKE",
+        "amount": 60000
+      },
+      {
+        "name": "REIDITE_DOOR",
+        "amount": 60000
+      },
+      {
+        "name": "HAMMER",
+        "amount": 1
+      },
+      {
+        "name": "SUPER_HAMMER",
+        "amount": 1
+      },
+      {
+        "name": "WOOD_SPEAR",
+        "amount": 1
+      },
+      {
+        "name": "PAPER",
+        "amount": 60000
+      },
+      {
+        "name": "WOOD",
+        "amount": 60000
+      },
+      {
+        "name": "WOOD",
+        "amount": 60000
+      },
+      {
+        "name": "WOOD",
+        "amount": 60000
+      },
+      {
+        "name": "WOOD",
+        "amount": 60000
+      },
+      {
+        "name": "WINTER_PEASANT",
+        "amount": 1
+      },
+      {
+        "name": "PITCHFORK2",
+        "amount": 1
+      },
+      {
+        "name": "BOAT",
+        "amount": 1
+      },
+      {
+        "name": "PLOT",
+        "amount": 60000
+      }
+  ]
+}

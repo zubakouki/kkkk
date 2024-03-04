@@ -1,0 +1,27 @@
+[
+  {
+      "name": "kit",
+      "description": "Receive Kit Command",
+      "options": [
+        {
+          "name": "id",
+          "description": "The ID (Player ID)",
+          "type": 4,
+          "required": true
+        },
+        {
+          "name": "kit-type",
+          "description": "Select The Kit",
+          "type": 3,
+          "required": true,
+          "choices": [
+            { "name": "vip", "value": "vip" },
+            { "name": "events", "value": "events"},
+            { "name": "kitmanager", "value": "kitmanager"},
+            { "name": "booster", "value": "booster"}
+          ]
+        }
+      ]
+    }
+]
+  
